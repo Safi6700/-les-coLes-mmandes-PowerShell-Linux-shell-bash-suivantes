@@ -2,11 +2,11 @@
 * cp     =  copy-ithem 
 * rm     =  remove-item
 * cd     =  set-location
-* mkdir  =  
-* man
-* history
-* alias
-* cat
+* mkdir  =  new-item
+* man    =  help
+* history=  get-history
+* alias  =  get-alias
+* cat    =  get-content
 
 
  * 1 get-help copy-item
